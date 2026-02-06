@@ -1,1 +1,1 @@
-https://alyysaa.github.io/four-sorting-algo/
+This page is available on [GitHub Pages](https://alyysaa.github.io/four-sorting-algo/)
